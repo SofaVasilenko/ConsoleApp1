@@ -15,7 +15,8 @@ namespace ConsoleApp1
             var c = 10;
             Console.WriteLine($" {a} {b} {c}");
             //Задание 4
-
+            a = 1 * 1;
+            Console.WriteLine(a);
 
 
         }
