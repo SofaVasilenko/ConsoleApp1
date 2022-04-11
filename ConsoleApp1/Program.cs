@@ -16,7 +16,10 @@ namespace ConsoleApp1
             Console.WriteLine($" {a} {b} {c}");
             //Задание 4
             a = 1 * 1;
-            Console.WriteLine(a);
+            Console.WriteLine(a); 
+            // Задание 5  
+            Console.WriteLine(12%4);
+            // Задание 6
 
 
         }
