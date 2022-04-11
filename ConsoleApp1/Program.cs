@@ -25,7 +25,8 @@ namespace ConsoleApp1
             int q = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(e*t*q);
             // Задание 7
+        int j = Convert.ToInt32(Console.ReadLine());
+        int h = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(j* h);
         }
-
-    }
 }
