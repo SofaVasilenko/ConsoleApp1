@@ -13,7 +13,8 @@ namespace ConsoleApp1
             double b = 4;
             // Задание 3
             var c = 10;
-            //Console.WriteLine
+            Console.WriteLine($" {a} {b} {c}");
+            //Задание 4
 
 
 
