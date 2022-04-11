@@ -20,7 +20,7 @@ namespace ConsoleApp1
             // Задание 5  
             Console.WriteLine(12%4);
             // Задание 6
-
+             
 
         }
     }
