@@ -8,7 +8,8 @@ namespace ConsoleApp1
 
         {
             //Задание 1
-            Console.WriteLine("Hello World!");
+            int a = 1;
+
         }
     }
 }
