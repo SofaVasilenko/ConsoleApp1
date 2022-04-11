@@ -9,6 +9,9 @@ namespace ConsoleApp1
         {
             //Задание 1
             int a = 1;
+            //Задание 2
+            double b = 4;
+
 
         }
     }
