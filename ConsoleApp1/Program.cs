@@ -20,8 +20,12 @@ namespace ConsoleApp1
             // Задание 5  
             Console.WriteLine(12%4);
             // Задание 6
-             
-
+            int e = Convert.ToInt32(Console.ReadLine());
+            int t = Convert.ToInt32(Console.ReadLine());
+            int q = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(e*t*q);
+            // Задание 7
         }
+
     }
 }
